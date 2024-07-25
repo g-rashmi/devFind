@@ -1,0 +1,13 @@
+{
+  "name": "Madhan Babu Uradi",
+  "location": "Hyderabad",
+  "bio": "A Front-end dev -  I'm very much interested in new technologies and always eager to learn new technologies which enhance my knowledge.",
+  "avatar": "https://github.com/MadhanBabuUradi.png",
+  "portfolio": "https://github.com/MadhanBabuUradi",
+  "skills": ["React", "Js", "Java","HTML","CSS","Postman Api",],
+  "social": {
+    "GitHub": "https://github.com/MadhanBabuUradi",
+    "Twitter": "https://x.com/UradiMadhanBabu",
+    "LinkedIn": "https://www.linkedin.com/in/madhanbabuuradi/"
+  }
+}
